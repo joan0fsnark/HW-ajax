@@ -74,3 +74,4 @@ while True:
         result = 'Please enter an operator followed by two integers.'
 
     print(result)
+
